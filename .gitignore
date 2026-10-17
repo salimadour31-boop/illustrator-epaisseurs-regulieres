@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+node_modules/
+*_epaisseurs.txt
+*.part.js
+tests/fontdata.json
+tests/mut.js
